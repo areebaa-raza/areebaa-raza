@@ -1,16 +1,29 @@
-## Hi there 👋
+# Areeba
 
-<!--
-**areebaa-raza/areebaa-raza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+Hello! I'm Areeba, a Software Engineering student at UET Lahore.
+I am interested in software development and learning new technologies.
+Currently, I am improving my programming and Git/GitHub skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills & Technologies
+
+| Category | Technologies |
+|----------|--------------|
+| Languages | Python |
+| Tools | Git, GitHub, VS Code |
+
+## Featured Projects
+
+### Project 1
+Currently working on my first software project.
+
+## Education
+
+Software Engineering — UET Lahore
+
+## Contact
+
+- Email: areebarazajutt@gmail.com
+- GitHub: [@areebaa-raza](https://github.com/areebaa-raza)
+
